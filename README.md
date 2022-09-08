@@ -71,7 +71,6 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
       <h3>Central Care Services</h3>
         <br>
         <p> <a href="https://evernest-project.herokuapp.com/" rel="nofollow">Visit Site</a></p>
-        <br>
         <a href="https://evernest-project.herokuapp.com/" rel="nofollow">
             <img src="https://res.cloudinary.com/amunoali/image/upload/v1664645630/everNEST_g1cx0f.png" width="100%" style="max-width:100%;">
         </a>
@@ -79,7 +78,6 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
     </td>
     <td width="33%" valign="top">
       <h3> Amana Home Care</h3>
-        <br>
         <p><a href="https://www.amanahomehealthllc.com/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="http://www.cronofy.tech/" rel="nofollow">
@@ -89,7 +87,6 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
     </td>
     <td width="33%" valign="top">
       <h3>Central Care Services</h3>
-        <br>
         <p> <a href="https://centralcareservice.com/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="https://centralcareservice.com/" rel="nofollow">
