@@ -23,7 +23,7 @@
 
 <br/>  
 
-Visit my [website](munoali.netlify.app) for more information </div>  
+Visit my [website](https://munoali.netlify.app/) for more information </div>  
   
 
 <br/>  
