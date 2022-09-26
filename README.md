@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/amunoali/image/upload/v1664209967/logo_txnxzq.png" align="left" height="" width="600" />  
+<img src="https://res.cloudinary.com/amunoali/image/upload/v1664209967/logo_txnxzq.png" />  
   
 
 ## <div align="center">👋  Hey,  I'm Muno Ali 👋 </div>  
