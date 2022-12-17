@@ -69,7 +69,8 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
   <tbody><tr>
      <td width="33%" valign="top">
       <h3><a id="user-content-travelaraorg" class="anchor" aria-hidden="true" href="https://github.com/amunoali/everNEST"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>everNEST</h3>
-        <p> <a href="https://evernest.cyclic.app/" rel="nofollow">Visit Site</a></p>
+        <img alt="Website" src="https://img.shields.io/website?color=blue&label=website&logo=google%20chrome&style=for-the-badge&up_message=evernest&url=https%3A%2F%2Fgithub.com%2Famunoali%2FeverNEST">
+        <img alt="Website" src="https://img.shields.io/website?color=blue&label=repo&logo=github&style=for-the-badge&up_message=evernest&url=https%3A%2F%2Fgithub.com%2Famunoali%2FeverNEST">
         <a href="https://evernest.cyclic.app/" rel="nofollow">
             <img src="https://res.cloudinary.com/amunoali/image/upload/v1664645630/everNEST_g1cx0f.png" width="100%" style="max-width:100%;">
         </a>
