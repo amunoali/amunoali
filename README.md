@@ -69,8 +69,9 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
   <tbody><tr>
      <td width="33%" valign="top">
       <h3>everNEST</h3>
-        <p> <a href="https://evernest-project.herokuapp.com/" rel="nofollow">Visit Site</a></p>
-        <a href="https://evernest-project.herokuapp.com/" rel="nofollow">
+        <p> <a href="https://evernest.cyclic.app/" rel="nofollow">Visit Site</a></p>
+         <p> <a href="https://github.com/amunoali/everNEST" rel="nofollow">View Repo</a></p>
+        <a href="https://evernest.cyclic.app/" rel="nofollow">
             <img src="https://res.cloudinary.com/amunoali/image/upload/v1664645630/everNEST_g1cx0f.png" width="100%" style="max-width:100%;">
         </a>
         <p><strong> HTML, CSS, JavaScript, Bootstrap, Tailwindcss, Node.js, Express.js, MongoDB/Mongoose, heroku </strong> - A Full-Stack web application for all book lovers-mainly self-help category.</p>
@@ -86,9 +87,10 @@ Visit my [website](https://munoali.netlify.app/) for more information </div>
     </td>
        <td width="33%" valign="top">
       <h3> Amana Home Care</h3>
-        <p><a href="https://www.amanahomehealthllc.com/" rel="nofollow">Visit Site</a></p>
+        <p><a href="https://amanahomehealthllc.netlify.app/" rel="nofollow">Visit Site</a></p>
+          <p><a href="https://github.com/amunoali/Amana-Home-Health" rel="nofollow">View Repo</a></p>
         <br>
-        <a href="http://www.cronofy.tech/" rel="nofollow">
+        <a href="https://amanahomehealthllc.netlify.app/" rel="nofollow">
             <img src="https://res.cloudinary.com/amunoali/image/upload/v1664208109/AmanaHomeCare_gc0ckc.png" width="100%"  style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, &amp; Bootstrap  </strong> - Full Stack Application a Home Care Company based in Virginia.</p>
